@@ -1,3 +1,5 @@
+# Code Only, All assets is my personal work. Privately purpose, use your own assets.
+
 # FlutterDesignPractice
 Flutter UI and Web Design Compilation Project
 1. Animation Studio UI Design (Build Soon for my Company, follow @izzanimationstudio)

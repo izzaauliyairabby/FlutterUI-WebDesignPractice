@@ -1,4 +1,4 @@
-# Code Only, All assets is my personal work. Privately purpose, use your own assets.
+# Code Only, All assets is my personal work. Private purpose, use your own assets!
 
 # FlutterDesignPractice
 Flutter UI and Web Design Compilation Project
